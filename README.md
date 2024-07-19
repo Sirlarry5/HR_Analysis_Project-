@@ -1,7 +1,5 @@
 
-# HR Analysis Report
-
-![HR Image]https://media.bizj.us/view/img/11104836/hr-outsourcing-gettyimages-882453070*1200xx2121-1195-0-113.jpg)
+# HR ANALYSIS REPORT 
 
 ## Project Description
 
@@ -135,4 +133,3 @@ The HR Analysis Report focuses on evaluating issues related to employee attritio
 This HR Analysis Report provides a comprehensive overview of employee attrition and job satisfaction, offering actionable insights to enhance workforce stability and satisfaction.
 ```
 
-Feel free to replace the placeholder image link with the actual URL of the HR-related image you'd like to use. If you need any more adjustments or additional sections, just let me know!
