@@ -36,6 +36,7 @@ The HR Analysis Report focuses on evaluating issues related to employee attritio
    - **Monitor and Adjust Initiatives:** Regularly review the effectiveness of retention strategies and make necessary adjustments to improve employee engagement and reduce turnover.
 
 **KPI Analysis Report**
+
 In this KPI analysis report, we’ll examine key performance indicators related to employee attrition. The data provided includes information on active employees, average age, and attrition rates.
 
 Key Metrics
