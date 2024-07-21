@@ -49,6 +49,7 @@ Interpretation
 The attrition rate of 16.12% indicates that a significant proportion of employees are leaving the organization. It’s essential to closely monitor attrition trends and identify factors contributing to employee turnover. Consider implementing retention strategies, improving workplace satisfaction, and addressing any issues affecting employee engagement.
 
 **DEPARTMENT ATTRITION ANALYSIS**
+
 Overview
 This report provides an analysis of the attrition rates for different departments within the organization. We have examined the attrition counts for the Human Resources (HR), Research and Development (R&D), and Sales departments.
 
@@ -81,6 +82,7 @@ Maintain the current low attrition rate by continuing effective employee engagem
 Addressing attrition is crucial for maintaining a stable and productive workforce. Regular monitoring and proactive measures can help mitigate attrition and promote employee satisfaction.
 
 **ATTRITION BY GENDER REPORT**
+
 Summary
 In this report, we analyze attrition based on gender. The data reveals that out of a total of 237 attrition cases, 150 were male employees, while 87 were female employees.
 
