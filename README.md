@@ -1,7 +1,7 @@
 
 # HR ANALYSIS REPORT 
 
-## Project Description
+## PROJECT DESCRIPTION:
 
 The HR Analysis Report focuses on evaluating issues related to employee attrition within the organization. This project involves a comprehensive analysis of various metrics to understand employee turnover, its implications, and actionable insights for improvement.
 
@@ -35,7 +35,7 @@ The HR Analysis Report focuses on evaluating issues related to employee attritio
    - **Create Targeted Strategies:** Based on the analysis, develop and implement strategies to address high attrition in specific departments and demographic groups.
    - **Monitor and Adjust Initiatives:** Regularly review the effectiveness of retention strategies and make necessary adjustments to improve employee engagement and reduce turnover.
 
-**KPI Analysis Report**
+**KPI ANALYSIS REPORT**
 
 In this KPI analysis report, we’ll examine key performance indicators related to employee attrition. The data provided includes information on active employees, average age, and attrition rates.
 
@@ -48,7 +48,7 @@ Attrition Count: The number of employees who have left the company (attrited) is
 Interpretation
 The attrition rate of 16.12% indicates that a significant proportion of employees are leaving the organization. It’s essential to closely monitor attrition trends and identify factors contributing to employee turnover. Consider implementing retention strategies, improving workplace satisfaction, and addressing any issues affecting employee engagement.
 
-**Department Attrition Analysis**
+**DEPARTMENT ATTRITION ANALYSIS**
 Overview
 This report provides an analysis of the attrition rates for different departments within the organization. We have examined the attrition counts for the Human Resources (HR), Research and Development (R&D), and Sales departments.
 
@@ -80,7 +80,7 @@ HR Department
 Maintain the current low attrition rate by continuing effective employee engagement practices.
 Addressing attrition is crucial for maintaining a stable and productive workforce. Regular monitoring and proactive measures can help mitigate attrition and promote employee satisfaction.
 
-**Attrition by Gender Report**
+**ATTRITION BY GENDER REPORT**
 Summary
 In this report, we analyze attrition based on gender. The data reveals that out of a total of 237 attrition cases, 150 were male employees, while 87 were female employees.
 
@@ -134,7 +134,7 @@ Manufacturing Directors and Managers show lower satisfaction rates.
 The Research Director role has the lowest satisfaction rate.
 ---
 **
-### Conclusion
+### CONCLUSION
 
 The HR Analysis Report provides an in-depth evaluation of employee attrition within the organization, highlighting critical areas that require attention to enhance workforce stability and satisfaction. By assessing overall attrition metrics, department-wise attrition, gender-based attrition, job satisfaction, and employee demographics, we have identified key patterns and underlying issues contributing to employee turnover.
 
